@@ -1,4 +1,4 @@
-SQL Exploratory Data Analysis-Global Layoffs
+## SQL Exploratory Data Analysis-Global Layoffs
 SQL exploratory data analysis using mySQL
 
 Project Overview
