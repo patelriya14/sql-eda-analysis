@@ -1,20 +1,20 @@
-# sql-eda-analysis
+SQL Exploratory Data Analysis-Global Layoffs
 SQL exploratory data analysis using mySQL
 
-## Project Overview
+Project Overview
 This project analyzes a global layoffs dataset using MySQL to uncover trends, identify patterns, and generate business insights through SQL queries.
 
-## Dataset
+Dataset
 - Global Layoffs Dataset
 - Database: MySQL
 
-## Objectives
+Objectives
 - Analyze layoffs across companies, industries, and countries.
 - Identify yearly and monthly layoff trends.
 - Rank companies based on total layoffs.
 - Calculate rolling monthly totals using window functions.
 
-## SQL Skills Demonstrated
+SQL Skills Demonstrated
 - SELECT
 - WHERE
 - GROUP BY
@@ -26,7 +26,7 @@ This project analyzes a global layoffs dataset using MySQL to uncover trends, id
 - DENSE_RANK()
 - Rolling Total Analysis
 
-## Key Analysis
+Key Analysis
 - Highest number of layoffs
 - Companies with 100% layoffs
 - Layoffs by company
@@ -37,17 +37,20 @@ This project analyzes a global layoffs dataset using MySQL to uncover trends, id
 - Rolling monthly layoffs
 - Top 5 companies with the highest layoffs each year
 
-## Key Insights
+Key Insights
 - Identified the companies with the highest layoffs.
 - Compared layoffs across different industries and countries.
 - Analyzed yearly and monthly layoff trends.
 - Ranked the top companies by layoffs for each year using DENSE_RANK().
 - Calculated cumulative layoffs over time using window functions.
 
-## Files
+Files
 - EDA sql.sql – SQL queries for exploratory data analysis.
 - README.md – Project documentation.
 
-## Tools Used
+Tools Used
 - MySQL Workbench
 - GitHub
+
+## Author
+Riya Patel
