@@ -45,7 +45,7 @@ Key Insights
 - Calculated cumulative layoffs over time using window functions.
 
 Files
-- EDA sql.sql – SQL queries for exploratory data analysis.
+- SQL Exploratory Data Analysis-Global Layoffs – SQL queries for exploratory data analysis.
 - README.md – Project documentation.
 
 Tools Used
